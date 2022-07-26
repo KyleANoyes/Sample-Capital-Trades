@@ -1,6 +1,4 @@
-Data structure:
-Publish date, Trade date, Ticker, Action (Buy/Sell), Est. value, Price on publish date
-
+Publish date,Trade date,Ticker,Action (Buy/Sell),Est. value,Stock price (Publish date)
 2019-05-11,2019-04-29,reg,sell,8000.0,57.65
 2019-05-11,2019-04-29,fis,sell,8000.0,112.7
 2019-05-11,2019-04-29,wec,sell,8000.0,71.14

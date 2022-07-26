@@ -1,3 +1,4 @@
+Ticker,Action (Buy/Sell),Position value,Stock price, Action volume,New position ROI (%),Date recorded (publish date)
 cmg,buy,8000.0,705.13,8000.0,1,2019-05-11
 gpk,buy,8000.0,12.82,8000.0,1,2019-05-11
 flt,buy,8000.0,265.87,8000.0,1,2019-05-11

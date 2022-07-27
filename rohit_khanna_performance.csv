@@ -1,4 +1,4 @@
-Ticker,Position lifetime ROI (%),Position value,Monthly ROI (%),Yearly ROI (%),Position start (YY-MM-DD),Position last update (YY-MM-DD)
+Ticker,Position lifetime ROI (*),Position value,Monthly ROI (*),Yearly ROI (*),Position start (YY-MM-DD),Position last update (YY-MM-DD)
 cmg,1.364,1000453.012,1.01,1.121,2019-05-11,2022-05-12
 gpk,1.323,612197.689,1.009,1.108,2019-05-11,2022-05-12
 flt,0.988,-3471.718,1.0,0.996,2019-05-11,2022-03-11

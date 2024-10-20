@@ -1,5 +1,5 @@
 # Sample-Capital-Trades
 
-Sample code from my algorithmic trading bot (database management and sanitization)
+Sample code from my algorithmic trading bot (database management and sanitization). Had some interesting results and was a fun test of utilizing webscrappers like Selenium.
 
-This file is my database management tool designed to organize all recorded stock records into various CSV files in a way that's easy for my program to recall when analyzing a member’s stock trade. This standardizes and sanitizes all my data before it's committed into each member’s profile. Included are three CSV files showing a sample of how this program has saved over 30,000 other similar entries.
+Should be re-written to optimize performance and take advantage of OOP, however it still functions and was an awesome learning bed for other applications I work on!
